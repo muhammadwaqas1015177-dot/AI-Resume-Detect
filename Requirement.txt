@@ -3,3 +3,5 @@ google-genai
 pypdf
 python-docx
 pydantic
+streamlit
+google-genai
